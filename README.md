@@ -17,6 +17,10 @@ I am a novice Data Science specialist from St-Petersburg, Russia.
 |2017|СПбГУТ им. проф. М.А. Бонч-Бруевича, Санкт-Петербург (Инфокоммуникационные технологии и системы связи), магистр|
 |2023|АНОДПО "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ ЯНДЕКСА"(Data Scientist), переквалификация|
 
+ ✅**Examples Of My Projects:**
+
+[My Study Projects](https://github.com/SvetlanaSmelova/ds_yandex_practicum)
+
 <!--
 **SvetlanaSmelova/SvetlanaSmelova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
